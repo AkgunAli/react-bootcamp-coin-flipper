@@ -51,10 +51,10 @@ class CoinFlipper extends Component {
     
     
     
-        const turagelsin = gelenler.filter(item => item ==="tura");
+        const turagelsin = gelenler.filter(item => item ==="Tura");
        const  turageldi= turagelsin.length;
 
-       const yazigelsin = gelenler.filter(item => item ==="yazi");
+       const yazigelsin = gelenler.filter(item => item ==="Yazı");
        
        const  yazigeldi = yazigelsin.length;
 
